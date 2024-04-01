@@ -1,4 +1,4 @@
-# PanfiliUnityTools
+# Panfili Unity Tools
 Panfili Unity Tools (PUT): various tools for performing data playback and analysis in Unity.
 
 Tested on Unity 2021.3.27f1
